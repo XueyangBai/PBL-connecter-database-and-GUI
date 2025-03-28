@@ -1,0 +1,8 @@
+pandas==1.5.3
+PIL==10.1.0
+numpy==1.26.4
+joblib==1.4.2
+catboost==1.2.7
+tkinter
+random
+python==3.8.0
