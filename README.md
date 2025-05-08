@@ -5,5 +5,5 @@ On the right side of this project's GitHub page, find the **"Releases"** section
 Both .ipynb and .py formats of the code are provided for user convenience.
 
 Developed by:
-College of Civil Engineering, Nanjing Forestry University
+College of Civil Engineering, Nanjing Forestry University.
 For technical inquiries, please contact: k.zheng@njfu.edu.cn
